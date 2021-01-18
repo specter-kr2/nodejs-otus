@@ -1,1 +1,1 @@
-# OTUS NODE JS COURSE HOMEWORKS
+# nodejs-otus
