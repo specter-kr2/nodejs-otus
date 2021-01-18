@@ -1,0 +1,14 @@
+{
+  "name": "hw_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:file": "node ./lib/createFileWithNumbers.js",
+    "generate:result": "node --max-old-space-size=50 script.js",
+    "all": "npm run generate:file && npm run generate:result"
+  },
+  "author": "",
+  "license": "ISC"
+}
