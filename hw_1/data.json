@@ -1,0 +1,28 @@
+{
+  "name": 1,
+  "items": [
+    { "name": 2, "items": [{ "name": 3 }, { "name": 4 }] },
+    { "name": 5, "items": [{ "name": 6 }] },
+    {
+      "name": 7,
+      "items": [
+        { "name": 8 },
+        {
+          "name": 9,
+          "items": [
+            { "name": 10 },
+            {
+              "name": 11,
+              "items": [
+                { "name": 8 },
+                { "name": 9, "items": [{ "name": 10 }, { "name": 11 }] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    { "name": 12, "items": [{ "name": 13 }] },
+    { "name": 14 }
+  ]
+}
